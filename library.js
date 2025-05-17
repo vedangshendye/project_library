@@ -163,4 +163,3 @@ showBooks();
 showBooks();
 alert("books were shown");
 addBookToLibrary("Icon","Fredrich Forsyth",700);
-
